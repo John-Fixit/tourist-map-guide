@@ -148,7 +148,7 @@ const MapComponent = () => {
             >
               <Input
                 size="large"
-                placeholder="Search map"
+                placeholder="Search tourist"
                 onChange={(e) => setSearchInput(e.target.value)}
               />
               <Button
